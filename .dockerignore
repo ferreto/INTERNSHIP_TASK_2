@@ -1,0 +1,17 @@
+.git
+.gitignore
+__pycache__
+*.pyc
+*.pyo
+.venv
+venv
+env
+video
+uploads
+.pytest_cache
+*.webm
+*.zoom.json
+*.mp4
+test_*.py
+conftest.py
+debug_*.png
